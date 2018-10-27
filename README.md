@@ -2,8 +2,6 @@
 
 [![Fortika](http://fortika-project.eu/sites/default/files/logo_transparent.png)](http://fortika-project.eu/)
 
-[![Build Status](https://github.com/geosakel77/fortikatemplateproject)](https://github.com/geosakel77/fortikatemplateproject/issues)
-
 
 Give a short description of the project/module here.
 
